@@ -2,8 +2,8 @@
 #### I'm Intrest in Front-End Development
 #### I’m currently learning CSS and JavaScript
 #### How to reach me: 
-  Email :- kumudunaram@gmail.com
-  Telegram :- 
+ ######Email :- kumudunaram@gmail.com
+ ######Telegram :- 
 
 
 <!--
