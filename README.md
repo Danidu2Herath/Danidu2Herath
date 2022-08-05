@@ -1,7 +1,7 @@
 ### Hi there I'm Danidu Herath👋
-# I'm Intrest in Front-End Development
-# I’m currently learning CSS and JavaScript
-# How to reach me: 
+#### I'm Intrest in Front-End Development
+#### I’m currently learning CSS and JavaScript
+#### How to reach me: 
   Email :- kumudunaram@gmail.com
   Telegram :- 
 
