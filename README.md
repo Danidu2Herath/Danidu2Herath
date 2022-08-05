@@ -2,6 +2,7 @@
 #### -I'm Intrest in Front-End Development
 #### -I’m currently learning CSS and JavaScript
 #### -I'm Currently Working on School Management System
+##### Special Thanks to @Thevindu-Senanayake
 #### -How to reach me:
   ###### Email :- kumudunaram@gmail.com
   ###### Telegram :- 
